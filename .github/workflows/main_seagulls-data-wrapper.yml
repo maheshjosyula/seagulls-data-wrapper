@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'seagulls-data-wrapper'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B94572C40B742A68E6D6A7313517CEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_981F2CCEDCB54771AB0CB26DE67204AE }}
           package: '*.jar'
