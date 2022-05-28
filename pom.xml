@@ -11,6 +11,7 @@
 	<artifactId>seagulls-data-wrapper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>seagulls-data-wrapper</name>
+	<packaging>jar</packaging>
 	<description>seagulls-data-wrapper</description>
 	<properties>
 		<java.version>11</java.version>
